@@ -1,22 +1,20 @@
-<!--
-Realferuzbek Profile README
-Tip: After you paste, search for "CHANGE THIS" and edit the few links/texts.
+<!-- Realferuzbek Profile README
+Tip: Use Ctrl+F and search "CHANGE THIS" to edit links quickly.
 -->
 
 <p align="center">
-  <h1 align="center">Hey, I’m Feruzbek Qurbonov 👋</h1>
+  <h1 align="center">Hey, I'm Feruzbek 😎</h1>
   <p align="center">
     Startup Builder • Aspiring AI Engineer • Building in public
   </p>
 
-  <!-- Typing header -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=6EE7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%26+communities;Learning+CS+%2B+Python+%2B+ML+every+day;Shipping+projects+on+GitHub+%2B+Vercel;Open+to+collaboration+%26+internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7F3FBF&center=true&vCenter=true&width=780&lines=Building+StudyMate+%26+Carilla;Learning+Python+%2B+CS+foundations+(CS50P);Shipping+apps+with+Next.js+%2B+Supabase;Open+to+collabs+in+EdTech" alt="Typing SVG" />
   </p>
 
-  <!-- Profile views -->
+  <!-- Profile views (clean + pro) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Realferuzbek&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Realferuzbek&label=PROFILE%20VIEWS&color=7F3FBF&style=for-the-badge" alt="Profile views" />
   </p>
 </p>
 
@@ -24,58 +22,68 @@ Tip: After you paste, search for "CHANGE THIS" and edit the few links/texts.
 
 ## 🧠 About me
 
-- 🧑‍💻 **Startup builder** focused on practical AI products
-- 🎯 Goal: become a strong engineer who can **build + debug + ship** (not only “use AI tools”)
-- 🧪 Interested in: **ML / NLP / RAG / product engineering**
-- 🌍 Based in: **Tashkent, Uzbekistan**
-- 🧍 Pronouns: **he/him**
-- 🤝 Open to: **collabs, open-source, internships (AI / SWE)**
+- 🚀 I build AI-first products with a “ship → learn → iterate” mindset.
+- 🧩 Currently learning: **Python + CS foundations** (CS50P) — so I can read/debug code confidently, not just generate it.
+- 🤝 Looking for: **builders & founders** to collaborate on **EdTech** products (study tools, communities, learning systems).
+- ⚡ Fun fact: I’m the type of person who turns a random idea into a working prototype before the day ends.
 
 ---
 
-## 🚀 What I’m building
+## 🧪 What I’m building right now
 
-- **StudyWithFeruzbek / Focus Squad** — productivity + community + AI features  
-- **Carilla** — AI-powered car-tuning platform  
+- **StudyMate** — a community + productivity platform with AI features  
+  🔗 Live: https://studywithferuzbek.vercel.app/  
+  🔗 Repo: https://github.com/Realferuzbek/study_with_feruzbek
+
+- **Carilla** — AI-powered car-tuning platform (visual customization + product thinking)  
+  🔗 Repo: https://github.com/Realferuzbek/carilla
+
+---
+
+## ✅ What I’ve built
+
+### 🧩 Friends2007 Organization
+<p>
+  <a href="https://github.com/Friends2007">
+    <img src="https://github.com/Friends2007.png" width="70" align="left" alt="Friends2007 org" />
+  </a>
+</p>
+
+**Friends2007** is where we ship small-but-real projects together — clean repos, public code, and consistent shipping.  
+🔗 Organization: https://github.com/Friends2007
+
+- **phys-lab-buddy** — study helper project for physics workflows  
+  https://github.com/Friends2007/phys-lab-buddy
+- **Math-university** — math resources / learning project  
+  https://github.com/Friends2007/Math-university
+- **Learning-English** — English learning project  
+  https://github.com/Friends2007/Learning-English
+- **english-learn** — English learning repo (practice + structure)  
+  https://github.com/Friends2007/english-learn
+
+<br />
+
+### 🛠 Personal builds (high signal)
+- **StudyWithFeruzbek Tracker** — Telegram community tracker + automation tools  
+  https://github.com/Realferuzbek/study_with_feruzbek_tracker
 - **Flip Countdown** — themed countdown web app  
-- **Compact e-wallet device** — hardware + security + mobile integration
-
-> If you want, I can rewrite this section into a sharper “portfolio-style” version (with 1–2 lines per project + links).
+  https://github.com/Realferuzbek/flip_countdown_new
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Tech stack I’m familiar with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,mongodb,firebase,supabase,androidstudio,canva,github,vscode,vercel&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20Agents%20%7C%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow-Ship%20Fast%20%7C%20Iterate%20Hard-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-## 📌 Featured projects
-
-<p align="center">
-  <!-- CHANGE THIS: repo names if needed -->
-  <a href="https://github.com/Realferuzbek/study_with_feruzbek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Realferuzbek&repo=study_with_feruzbek&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Realferuzbek/flip_countdown_new">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Realferuzbek&repo=flip_countdown_new&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Realferuzbek/carilla">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Realferuzbek&repo=carilla&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Realferuzbek/study_with_feruzbek_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Realferuzbek&repo=study_with_feruzbek_tracker&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/Google%20OAuth-111827?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable%20AI-111827?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20Pull%20Requests-111827?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/100ms-111827?style=for-the-badge&logo=webrtc&logoColor=white" />
 </p>
 
 ---
@@ -101,28 +109,15 @@ Tip: After you paste, search for "CHANGE THIS" and edit the few links/texts.
 
 ---
 
-## 🎯 Current focus
-
-- Deepening **Python + CS foundations** (so I can read/debug code confidently)
-- Building **AI features** (RAG, evaluation, deployment)
-- Shipping projects weekly and improving code quality
-
----
-
 ## 🤝 Connect with me
 
 <p align="center">
-  <!-- CHANGE THIS: any links you want to hide/remove -->
-  <a href="mailto:feruzbekqurbonov03@gmail.com"><img src="https://img.shields.io/badge/Email-feruzbekqurbonov03%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://studywithferuzbek.vercel.app/"><img src="https://img.shields.io/badge/Website-StudyWithFeruzbek-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://t.me/realferuzbek"><img src="https://img.shields.io/badge/Telegram-@realferuzbek-111827?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/realferuzbek"><img src="https://img.shields.io/badge/LinkedIn-Realferuzbek-111827?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Realferuzbek"><img src="https://img.shields.io/badge/GitHub-Realferuzbek-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:feruzbekqurbonov03@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://studywithferuzbek.vercel.app/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://t.me/realferuzbek"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/realferuzbek"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
-  <i>“Build small. Ship fast. Learn relentlessly.”</i>
+  <i>Build small. Ship fast. Learn relentlessly.</i>
 </p>
-
