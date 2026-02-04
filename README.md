@@ -30,7 +30,7 @@
 - 🚀 I build **AI-first products** with a *ship → learn → iterate* mindset.
 - 🐍 Currently learning: **Python + CS foundations (CS50P)**.
 - 🤝 Looking for: **builders/founders to collaborate on EdTech** 
-- ⚡ Fun fact: I treat “just an idea” like a bug — I can’t relax until it’s shipped.
+- ⚡ Fun fact: I treat “just an idea” like a bug — I can’t relax until it’s shipped😂
 
 ---
 
