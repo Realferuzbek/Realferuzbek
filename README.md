@@ -6,14 +6,20 @@
     Startup Builder • Aspiring AI Engineer • Building in public
   </p>
 
-  <!-- ✅ Bring back the previous “between tagline and profile views” style -->
+  <!-- Typing header (NOT purple) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7F3FBF&center=true&vCenter=true&width=780&lines=Building+StudyMate+%26+Carilla;Learning+Python+%2B+CS+foundations+(CS50P);Shipping+apps+with+Next.js+%2B+Supabase;Open+to+collabs+in+EdTech" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=6EE7FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+%26+communities;Learning+CS+%2B+Python+%2B+ML+every+day;Shipping+projects+on+GitHub+%2B+Vercel;Open+to+collabs+in+EdTech+%26+AI"
+      alt="Typing SVG"
+    />
   </p>
 
-  <!-- ✅ Better looking profile views (color matched) -->
+  <!-- Profile views -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Realferuzbek&label=Profile%20views&color=7F3FBF&style=flat-square" alt="Profile views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=Realferuzbek&label=Profile%20views&color=0ea5e9&style=for-the-badge"
+      alt="profile views"
+    />
   </p>
 </p>
 
@@ -21,10 +27,10 @@
 
 ## 🧠 About me
 
-- 🚀 I build AI-first products with a “ship → learn → iterate” mindset.
-- 🧩 Currently learning: **Python + CS foundations (CS50P)**.
-- 🤝 Looking for: **builders & founders** to collaborate on **EdTech** projects.
-- ⚡ Fun fact: I open DevTools so fast that bugs don’t even get time to lie. 😭
+- 🚀 I build **AI-first products** with a *ship → learn → iterate* mindset.
+- 🐍 Currently learning: **Python + CS foundations (CS50P)**.
+- 🤝 Looking for: **builders/founders to collaborate on EdTech** (real products, real users, real shipping).
+- ⚡ Fun fact: I treat “just an idea” like a bug — I can’t relax until it’s shipped.
 
 ---
 
@@ -32,39 +38,29 @@
 
 - **StudyMate** — community + productivity platform with AI features  
   🔗 Live: https://studywithferuzbek.vercel.app/  
-  🔗 Repo: https://github.com/Realferuzbek/study_with_feruzbek
+  💻 Repo: https://github.com/Realferuzbek/study_with_feruzbek
 
 - **Carilla** — AI-powered car-tuning platform (visual customization + product thinking)  
-  🔗 Repo: https://github.com/Realferuzbek/carilla
+  💻 Repo: https://github.com/Realferuzbek/carilla
 
 ---
 
 ## ✅ What I’ve built
 
 ### 🧩 Friends2007 Organization
+**Friends2007** is where we ship small-but-real projects together — clean repos, public code, consistent progress.  
+🏢 Org: https://github.com/Friends2007
 
-<p align="center">
-  <a href="https://github.com/Friends2007">
-    <img src="https://github.com/Friends2007.png" width="80" alt="Friends2007" />
-  </a>
-</p>
-
-**Friends2007** is our ship-lab — small, real projects with clean public code.  
-🔗 Organization: https://github.com/Friends2007
-
-- **phys-lab-buddy** — study helper for physics workflows  
+- **phys-lab-buddy** — study helper project for physics workflows  
   https://github.com/Friends2007/phys-lab-buddy
-- **Math-university** — math resources / learning repo  
+- **Math-university** — math resources / learning project  
   https://github.com/Friends2007/Math-university
 - **Learning-English** — English learning project  
   https://github.com/Friends2007/Learning-English
 - **english-learn** — English learning repo (practice + structure)  
   https://github.com/Friends2007/english-learn
 
-<br />
-
-### 🛠 Personal builds
-
+### 🛠️ Personal builds (high signal)
 - **StudyWithFeruzbek Tracker** — Telegram community tracker + automation tools  
   https://github.com/Realferuzbek/study_with_feruzbek_tracker
 - **Flip Countdown** — themed countdown web app  
@@ -74,20 +70,32 @@
 
 ## 🧰 Tech stack I’m familiar with
 
-<!-- Core icons (clean, consistent) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,mongodb,firebase,supabase,androidstudio,canva,github,vscode,vercel&perline=6" />
+  <kbd>🐍 Python</kbd>
+  <kbd>🟦 TypeScript</kbd>
+  <kbd>🟨 JavaScript</kbd>
+  <kbd>🟩 Node.js</kbd>
+  <kbd>🍃 MongoDB</kbd>
+  <kbd>🔥 Firebase</kbd>
 </p>
 
-<!-- Extras (these tools don’t have perfect SkillIcons logos, so we make them look premium with matching badges) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20OAuth-111827?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lovable%20AI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20Pull%20Requests-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/100ms-111827?style=for-the-badge" />
+  <kbd>🧪 Supabase</kbd>
+  <kbd>🔐 Google OAuth</kbd>
+  <kbd>📱 Android Studio</kbd>
+  <kbd>🎨 Canva</kbd>
+  <kbd>🐙 GitHub</kbd>
+  <kbd>🧰 VS Code</kbd>
+</p>
+
+<p align="center">
+  <kbd>🤖 Codex</kbd>
+  <kbd>🧭 Cursor</kbd>
+  <kbd>💚 Lovable AI</kbd>
+  <kbd>▲ Vercel</kbd>
+  <kbd>☁️ Render</kbd>
+  <kbd>🔀 Git Pull Requests</kbd>
+  <kbd>🎥 100ms</kbd>
 </p>
 
 ---
@@ -95,10 +103,11 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="mailto:feruzbekqurbonov03@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://studywithferuzbek.vercel.app/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://t.me/realferuzbek"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/realferuzbek"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:feruzbekqurbonov03@gmail.com"><kbd>✉️ Email</kbd></a>
+  <a href="https://studywithferuzbek.vercel.app/"><kbd>🌐 Website</kbd></a>
+  <a href="https://t.me/realferuzbek"><kbd>💬 Telegram</kbd></a>
+  <a href="https://www.linkedin.com/in/realferuzbek"><kbd>💼 LinkedIn</kbd></a>
+  <a href="https://github.com/Realferuzbek"><kbd>🐙 GitHub</kbd></a>
 </p>
 
 <p align="center">
