@@ -70,46 +70,54 @@
 
 ## 🧰 Tech stack I’m familiar with
 
+<!-- Core stack icons -->
 <p align="center">
-  <kbd>🐍 Python</kbd>
-  <kbd>🟦 TypeScript</kbd>
-  <kbd>🟨 JavaScript</kbd>
-  <kbd>🟩 Node.js</kbd>
-  <kbd>🍃 MongoDB</kbd>
-  <kbd>🔥 Firebase</kbd>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,mongodb,firebase,supabase,androidstudio,canva,github,vscode,vercel&perline=6" />
 </p>
 
+<!-- Tools / services (all with icons; no ugly gaps) -->
 <p align="center">
-  <kbd>🧪 Supabase</kbd>
-  <kbd>🔐 Google OAuth</kbd>
-  <kbd>📱 Android Studio</kbd>
-  <kbd>🎨 Canva</kbd>
-  <kbd>🐙 GitHub</kbd>
-  <kbd>🧰 VS Code</kbd>
+  <img src="https://img.shields.io/badge/Google%20OAuth-111827?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/🧭%20Cursor-111827?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/💚%20Lovable%20AI-111827?style=for-the-badge" alt="Lovable AI" />
+  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git%20Pull%20Requests-111827?style=for-the-badge&logo=github&logoColor=white" alt="Git Pull Requests" />
+  <img src="https://img.shields.io/badge/🎥%20100ms-111827?style=for-the-badge" alt="100ms" />
 </p>
 
-<p align="center">
-  <kbd>🤖 Codex</kbd>
-  <kbd>🧭 Cursor</kbd>
-  <kbd>💚 Lovable AI</kbd>
-  <kbd>▲ Vercel</kbd>
-  <kbd>☁️ Render</kbd>
-  <kbd>🔀 Git Pull Requests</kbd>
-  <kbd>🎥 100ms</kbd>
-</p>
 
 ---
 
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="mailto:feruzbekqurbonov03@gmail.com"><kbd>✉️ Email</kbd></a>
-  <a href="https://studywithferuzbek.vercel.app/"><kbd>🌐 Website</kbd></a>
-  <a href="https://t.me/realferuzbek"><kbd>💬 Telegram</kbd></a>
-  <a href="https://www.linkedin.com/in/realferuzbek"><kbd>💼 LinkedIn</kbd></a>
-  <a href="https://github.com/Realferuzbek"><kbd>🐙 GitHub</kbd></a>
+  <a href="mailto:feruzbekqurbonov03@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48"
+      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
+      alt="Email" />
+  </a>
+
+  <a href="https://studywithferuzbek.vercel.app/" title="Website">
+    <img src="https://cdn.simpleicons.org/vercel/ffffff" height="48"
+      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
+      alt="Website" />
+  </a>
+
+  <a href="https://t.me/realferuzbek" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48"
+      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
+      alt="Telegram" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/realferuzbek" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48"
+      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
+      alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
   <i>Build small. Ship fast. Learn relentlessly.</i>
 </p>
+>
