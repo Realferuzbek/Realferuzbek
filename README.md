@@ -72,20 +72,24 @@
 
 <!-- Core stack icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,mongodb,firebase,supabase,androidstudio,canva,github,vscode,vercel&perline=6" />
+  <img
+    alt="Tech stack icons"
+    src="https://skillicons.dev/icons?i=python,ts,js,nodejs,mongodb,firebase,supabase,androidstudio,github,vscode,vercel&perline=6&theme=dark"
+  />
 </p>
 
-<!-- Tools / services (all with icons; no ugly gaps) -->
+<!-- Tools / services -->
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20OAuth-111827?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
   <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/🧭%20Cursor-111827?style=for-the-badge" alt="Cursor" />
-  <img src="https://img.shields.io/badge/💚%20Lovable%20AI-111827?style=for-the-badge" alt="Lovable AI" />
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Lovable%20AI-111827?style=for-the-badge" alt="Lovable AI" />
+  <br/>
   <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Git%20Pull%20Requests-111827?style=for-the-badge&logo=github&logoColor=white" alt="Git Pull Requests" />
-  <img src="https://img.shields.io/badge/🎥%20100ms-111827?style=for-the-badge" alt="100ms" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-111827?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests" />
+  <img src="https://img.shields.io/badge/100ms-111827?style=for-the-badge" alt="100ms" />
+  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
-
 
 ---
 
@@ -93,31 +97,20 @@
 
 <p align="center">
   <a href="mailto:feruzbekqurbonov03@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48"
-      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
-      alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://studywithferuzbek.vercel.app/" title="Website">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" height="48"
-      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
-      alt="Website" />
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-
   <a href="https://t.me/realferuzbek" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48"
-      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
-      alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <a href="https://www.linkedin.com/in/realferuzbek" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48"
-      style="background:#111827;padding:10px;border-radius:14px;margin:0 6px;"
-      alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <i>Build small. Ship fast. Learn relentlessly.</i>
 </p>
->
+
