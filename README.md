@@ -36,16 +36,54 @@
 
 ## 🧪 What I’m building right now
 
-- **StudyMate** — community + productivity platform with AI features  
-  🔗 Live: https://studywithferuzbek.vercel.app/  
+- **StudyMate** — AI-assisted study coordination (plan + track + stay consistent together)  
+  ✅ Traction: 50+ registered users • 1K+ visitors  
+  🔗 Live: https://thestudymate.vercel.app  
   💻 Repo: https://github.com/Realferuzbek/study_with_feruzbek
 
 - **Carilla** — AI-powered car-tuning platform (visual customization + product thinking)  
+  🔗 Live: https://carilla.vercel.app  
   💻 Repo: https://github.com/Realferuzbek/carilla
+
+- **FsTates** — lightweight web project (in progress)  
+  🔗 Live: https://fstates.vercel.app
 
 ---
 
 ## ✅ What I’ve built
+
+### 🚀 Products & communities (real users)
+
+- **StudyWithFeruzbek** — daily live group study sessions (Telegram)  
+  - **Problem:** low consistency when studying solo  
+  - **Outcome:** 70+ active members • 50+ sessions / 10 weeks • 11,000+ combined study hours logged  
+  - **How built:** tracking + leaderboard workflow; automation accelerated with ChatGPT  
+  - **Role:** Founder & Host  
+  - **Proof:** https://t.me/studywithferuzbek
+
+- **English Learning** — interactive English practice platform  
+  - **Problem:** students lacked a free, engaging way to practice English online  
+  - **Outcome:** adopted at Navoi State University of Mining and Technologies • 10K+ active users • 200+ A2 words • 100+ grammar rules • 70+ exercises • 100+ listening practices  
+  - **How built:** led product ops + content rollout with the team; built with Lovable  
+  - **Role:** Co-Founder & COO  
+  - **Proof:** https://english-learn.lovable.app
+
+- **Math Platform** — interactive math practice + formula library  
+  - **Problem:** math practice tools were boring and fragmented  
+  - **Outcome:** 8K+ active users • 300 questions • 10+ tests • 150+ formulas • 20+ topics • interactive function-graph tool  
+  - **How built:** defined features + content structure; built with Lovable  
+  - **Role:** Co-Founder & Managing Director  
+  - **Proof:** https://revival-project-shine.lovable.app
+
+- **Physics Lab** — interactive physics learning platform  
+  - **Problem:** physics self-study lacked hands-on practice and clear formulas  
+  - **Outcome:** 5K+ active students • animations + lab tasks + formula library + AI helper  
+  - **How built:** led product + content structure with the team; built with Lovable  
+  - **Role:** Co-Founder & CEO  
+  - **Proof:** https://phys-lab-buddy.lovable.app
+
+- **Yogong** — one-page interactive letter  
+  - **Proof:** https://yogong.vercel.app
 
 ### 🧩 Friends2007 Organization
 **Friends2007** is where we ship small-but-real projects together — clean repos, public code, consistent progress.  
