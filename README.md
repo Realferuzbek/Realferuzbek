@@ -36,17 +36,21 @@
 
 ## 🧪 What I’m building right now
 
-- **StudyMate** — AI-assisted study coordination (plan + track + stay consistent together)  
+- **StudyMate** — AI-assisted study coordination 
+
   ✅ Traction: 50+ registered users • 1K+ visitors  
   🔗 Live: https://thestudymate.vercel.app  
   💻 Repo: https://github.com/Realferuzbek/study_with_feruzbek
 
-- **Carilla** — AI-powered car-tuning platform (visual customization + product thinking)  
+- **Carilla** — AI-powered car-tuning platform 
+
   🔗 Live: https://carilla.vercel.app  
   💻 Repo: https://github.com/Realferuzbek/carilla
 
-- **FsTates** — lightweight web project (in progress)  
+- **FsTates** — lightweight web project (in progress)
+
   🔗 Live: https://fstates.vercel.app
+  💻 Repo: https://github.com/Realferuzbek/f_s_tates
 
 ---
 
@@ -55,54 +59,39 @@
 ### 🚀 Products & communities (real users)
 
 - **StudyWithFeruzbek** — daily live group study sessions (Telegram)  
-  - **Problem:** low consistency when studying solo  
-  - **Outcome:** 70+ active members • 50+ sessions / 10 weeks • 11,000+ combined study hours logged  
-  - **How built:** tracking + leaderboard workflow; automation accelerated with ChatGPT  
-  - **Role:** Founder & Host  
-  - **Proof:** https://t.me/studywithferuzbek
+
+  ✅ Traction: 70+ active members; 50+ sessions over 10 weeks; 11,000+ combined study hours logged
+  🔗 Live: https://t.me/studywithferuzbek 
+  💻 Repo: https://github.com/Realferuzbek/study_with_feruzbek_tracker 
 
 - **English Learning** — interactive English practice platform  
-  - **Problem:** students lacked a free, engaging way to practice English online  
-  - **Outcome:** adopted at Navoi State University of Mining and Technologies • 10K+ active users • 200+ A2 words • 100+ grammar rules • 70+ exercises • 100+ listening practices  
-  - **How built:** led product ops + content rollout with the team; built with Lovable  
-  - **Role:** Co-Founder & COO  
-  - **Proof:** https://english-learn.lovable.app
+
+  ✅ Traction: 10K+ active users; (200+ A2 words, 100+ grammar rules, 70+ exercises, 100+ listening practices).
+  🔗 Live: https://english-learn.lovable.app 
+  💻 Repo: https://github.com/Friends2007/english-learn
 
 - **Math Platform** — interactive math practice + formula library  
-  - **Problem:** math practice tools were boring and fragmented  
-  - **Outcome:** 8K+ active users • 300 questions • 10+ tests • 150+ formulas • 20+ topics • interactive function-graph tool  
-  - **How built:** defined features + content structure; built with Lovable  
-  - **Role:** Co-Founder & Managing Director  
-  - **Proof:** https://revival-project-shine.lovable.app
+
+  ✅ Traction: 8K+ active users; 300 questions, 10+ tests, 150+ formulas, 20+ topics.
+  🔗 Live: https://revival-project-shine.lovable.app
+  💻 Repo: https://github.com/Friends2007/Math-university
 
 - **Physics Lab** — interactive physics learning platform  
-  - **Problem:** physics self-study lacked hands-on practice and clear formulas  
-  - **Outcome:** 5K+ active students • animations + lab tasks + formula library + AI helper  
-  - **How built:** led product + content structure with the team; built with Lovable  
-  - **Role:** Co-Founder & CEO  
-  - **Proof:** https://phys-lab-buddy.lovable.app
 
-- **Yogong** — one-page interactive letter  
-  - **Proof:** https://yogong.vercel.app
+  ✅ Traction: 5K+ active students  
+  🔗 Live: https://phys-lab-buddy.lovable.app
+  💻 Repo: https://github.com/Freinds2007/phys-lab-buddy
 
-### 🧩 Friends2007 Organization
-**Friends2007** is where we ship small-but-real projects together — clean repos, public code, consistent progress.  
-🏢 Org: https://github.com/Friends2007
+- **Yogong** — one-page interactive Love letter  
+   
+  🔗 Live: https://yobogongjunim.vercel.app  
+  💻 Repo: https://github.com/Realferuzbek/yogong
 
-- **phys-lab-buddy** — study helper project for physics workflows  
-  https://github.com/Friends2007/phys-lab-buddy
-- **Math-university** — math resources / learning project  
-  https://github.com/Friends2007/Math-university
-- **Learning-English** — English learning project  
-  https://github.com/Friends2007/Learning-English
-- **english-learn** — English learning repo (practice + structure)  
-  https://github.com/Friends2007/english-learn
-
-### 🛠️ Personal builds (high signal)
-- **StudyWithFeruzbek Tracker** — Telegram community tracker + automation tools  
-  https://github.com/Realferuzbek/study_with_feruzbek_tracker
 - **Flip Countdown** — themed countdown web app  
-  https://github.com/Realferuzbek/flip_countdown_new
+
+  ✅ Traction: Helped over 200+ users to stay consistent during live study sessions 
+  🔗 Live: https://flipcountdownnew.vercel.app  
+  💻 Repo: https://github.com/Realferuzbek/flip_countdown_new
 
 ---
 
