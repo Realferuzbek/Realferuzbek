@@ -37,13 +37,16 @@
 ## 🧪 What I’m building right now
 
 - **StudyMate** — AI-assisted study coordination  
+
   ✅ **Traction:** 50+ registered users · 1K+ visitors  
   🔗 **Links:** [Live](https://thestudymate.vercel.app) · [Repo](https://github.com/Realferuzbek/study_with_feruzbek)
 
 - **Carilla** — AI-powered car-tuning platform  
+
   🔗 **Links:** [Live](https://carilla.vercel.app) · [Repo](https://github.com/Realferuzbek/carilla)
 
 - **FsTates** — lightweight web project (in progress)  
+
   🔗 **Links:** [Live](https://fstates.vercel.app) · [Repo](https://github.com/Realferuzbek/f_s_tates)
 
 ---
@@ -53,25 +56,31 @@
 ### 🚀 Products & communities (real users)
 
 - **StudyWithFeruzbek** — daily live group study sessions (Telegram)  
+
   ✅ **Traction:** 70+ active members · 50+ sessions (10 weeks) · 11,000+ study hours logged  
   🔗 **Links:** [Live](https://t.me/studywithferuzbek) · [Repo](https://github.com/Realferuzbek/study_with_feruzbek_tracker)
 
 - **English Learning** — interactive English practice platform  
+
   ✅ **Traction:** 10K+ active users · 200+ A2 words · 100+ grammar rules · 70+ exercises · 100+ listening practices  
   🔗 **Links:** [Live](https://english-learn.lovable.app) · [Repo](https://github.com/Friends2007/english-learn)
 
 - **Math Platform** — interactive math practice + formula library  
+
   ✅ **Traction:** 8K+ active users · 300 questions · 10+ tests · 150+ formulas · 20+ topics  
   🔗 **Links:** [Live](https://revival-project-shine.lovable.app) · [Repo](https://github.com/Friends2007/Math-university)
 
 - **Physics Lab** — interactive physics learning platform  
+
   ✅ **Traction:** 5K+ active students  
   🔗 **Links:** [Live](https://phys-lab-buddy.lovable.app) · [Repo](https://github.com/Friends2007/phys-lab-buddy)
 
 - **Yogong** — one-page interactive love letter  
+
   🔗 **Links:** [Live](https://yobogongjunim.vercel.app) · [Repo](https://github.com/Realferuzbek/yogong)
 
 - **Flip Countdown** — themed countdown web app  
+
   ✅ **Impact:** helped 200+ users stay consistent during live study sessions  
   🔗 **Links:** [Live](https://flipcountdownnew.vercel.app) · [Repo](https://github.com/Realferuzbek/flip_countdown_new)
 
